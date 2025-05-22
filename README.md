@@ -4,7 +4,7 @@ the branch of mathematics that deals with the finding and properties of derivati
 * **1. [Limits and Continuity](./Limits_and_Continuity.ipynb) -** Understanding how functions behave as they approach specific points or infinity.
 * **2. [Differentiation](./Differentiation.ipynb) –** Exploring derivatives, rates of change, and applications like tangent lines.
 * **3. [Applications of Derivatives](./Applications_of_Derivatives.ipynb) –** Optimization, related rates, curve sketching, and motion.
-* **4. Integration –** Learning antiderivatives, definite and indefinite integrals, and the Fundamental Theorem of Calculus.
+* **4. [Integration](./Integration.ipynb) –** Learning antiderivatives, definite and indefinite integrals, and the Fundamental Theorem of Calculus.
 * **5. Applications of Integrals –** Area under curves, volume, and physical applications.
 * **6. Differential Equations –** Basic equations describing natural phenomena and their solutions.
 * **7. Sequences and Series –** Studying infinite sums, convergence tests, and power series.
