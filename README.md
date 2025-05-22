@@ -1,7 +1,7 @@
 # Calculus
 the branch of mathematics that deals with the finding and properties of derivatives and integrals of functions, by methods originally based on the summation of infinitesimal differences. The two main types are differential calculus and integral calculus. Calculus is typically divided into several key chapters, each building on fundamental concepts. Here’s an overview of the major topics:
 
-* **1. [Limits and Continuity](./Limits_and_Continuity.ipynb) - ** Understanding how functions behave as they approach specific points or infinity.
+* **1. [Limits and Continuity](./Limits_and_Continuity.ipynb) -** Understanding how functions behave as they approach specific points or infinity.
 * **2. Differentiation –** Exploring derivatives, rates of change, and applications like tangent lines.
 * **3. Applications of Derivatives –** Optimization, related rates, curve sketching, and motion.
 * **4. Integration –** Learning antiderivatives, definite and indefinite integrals, and the Fundamental Theorem of Calculus.
