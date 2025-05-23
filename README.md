@@ -7,6 +7,6 @@ the branch of mathematics that deals with the finding and properties of derivati
 * **4. [Integration](./Integration.ipynb) –** Learning antiderivatives, definite and indefinite integrals, and the Fundamental Theorem of Calculus.
 * **5. [Applications of Integrals](./Applications_of_Integrals.ipynb) –** Area under curves, volume, and physical applications.
 * **6. [Differential Equations](./Differential_Equations.ipynb) –** Basic equations describing natural phenomena and their solutions.
-* **7. Sequences and Series –** Studying infinite sums, convergence tests, and power series.
+* **7. [Sequences and Series](./Sequences_and_Series.ipynb) –** Studying infinite sums, convergence tests, and power series.
 * **8. Multivariable Calculus –** Extending concepts to multiple dimensions, including partial derivatives and multiple integrals.
 * **9. Vector Calculus –** Covering fields, line integrals, Green’s theorem, and more advanced topics.
